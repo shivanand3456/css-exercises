@@ -1,0 +1,13 @@
+.class-1,
+.class-2 {
+    font-size: 28px;
+    font-family: sans-serif,'Times New Roman', Helvetica ;
+}
+.class-1 {
+    background-color: rgb(12, 1, 1);
+    color: white;
+
+}
+.class-2 {
+    background-color: yellow;
+}
